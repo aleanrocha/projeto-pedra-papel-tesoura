@@ -21,7 +21,7 @@ header {
 #container {
   display: flex;
   justify-content: space-between;
-  padding-top: 60px;
+  padding: 60px 0px 40px 0;
   width: 90%;
   max-width: 600px;
   margin: auto;
