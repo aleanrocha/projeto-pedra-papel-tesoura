@@ -1,4 +1,4 @@
-# ogo pedra, papel ou tesoura
+# Jogo pedra, papel ou tesoura
 
 ![Screenshot from 2023-03-13 14-32-03](https://user-images.githubusercontent.com/109040443/224782277-9489d50c-8cc9-42e7-8653-d5f8175087da.png)
 
